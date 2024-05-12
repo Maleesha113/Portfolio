@@ -13,7 +13,7 @@ export const Hero = () => {
                 {/* I am dedicated to expanding my knowledge and skills in the field of computer science. Eager to contribute to innovative projects and collaborate with industry professionals, 
                 I am committed to achieving academic and professional success. */}
                 </p>
-                <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+                <a href="mailto:shavindimalee@email.com" className={styles.contactBtn}>
                     Contact Me
                 </a>
             </div>
