@@ -9,7 +9,7 @@ export const Hero = () => {
             <div className={styles.content}> 
                 <h1 className={styles.title}> Hi, I'm Maleesha </h1>
                 <p className={styles.description}>
-                I am an ambitious undergraduate student pursuing a BSc (Hons) in Computer Science at the University of Westminster, Institute of Information Technology (IIT).
+                I am an ambitious undergraduate student pursuing a BSc (Hons) in Computer Science at the University of Westminster, Informatic Institute of Technology (IIT).
                 {/* I am dedicated to expanding my knowledge and skills in the field of computer science. Eager to contribute to innovative projects and collaborate with industry professionals, 
                 I am committed to achieving academic and professional success. */}
                 </p>
@@ -18,7 +18,7 @@ export const Hero = () => {
                 </a>
             </div>
             <img
-                src={getImageurl("hero/mypick2.png")}
+                src={getImageurl("hero/mypick3.png")}
                 alt="Hero image of me"
                 className={styles.heroImg}
             />

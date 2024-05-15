@@ -5,11 +5,13 @@
     flex-direction: column;
     border-radius: 10px;
     /* background: linear-gradient(90deg, #0b2e3c 0%, rgba(21, 84, 109, 0) 100%); */
-    background: linear-gradient(180deg, #579abc 0%, #134453 100%);
-    box-shadow: 0 16px 14px 0 #04152d;
+    background: linear-gradient(180deg, #59afb8 0%, #04201d 100%);
+    box-shadow: 0 16px 14px 0 #091a18;
     padding: 18px 24px;
     max-width: 345px;
   }
+
+  /* #47625e */
   
   .image {
     margin-bottom: 26px;

@@ -6,12 +6,21 @@
     --color-dark: #0b2447;
     --color-bg: #04152d; */
 
-    --color-text: #fff;
+    /* --color-text: #fff;
     --color-primary:#cf9530 ;
-    --color-secondary: #26425A;
+    --color-secondary: #264c5a;
     --color-dark: #43082b;
     --color-bg: #045e82;
+   */
+
+   --color-text: #EEF7FF;
+    --color-primary: #BB8493;
+    --color-secondary: #091a18;
+    --color-dark: #135D66 ;
+    --color-bg: #003C43; 
   
     /* Fonts */
     --font-roboto: "Roboto";
   }
+
+  /* #2b8178 */
