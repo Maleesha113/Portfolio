@@ -23,6 +23,10 @@
     font-weight: 400;
     letter-spacing: 2px;
   }
+
+  .img{
+    width: 35px;
+  }
   
   .links {
     display: flex;

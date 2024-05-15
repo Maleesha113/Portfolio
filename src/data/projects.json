@@ -1,26 +1,51 @@
 [
     {
-      "title": "Project A",
+      "title": "Portfolio",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Maleesha113/Portfolio"
     },
     {
-      "title": "Project B",
+      "title": "SDGP Group Project",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node", "Sass"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Rusithw/SDGP-Project"
     },
     {
-      "title": "Project C",
+      "title": "Hamster care Site",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Maleesha113/Hamster-Care"
+    },
+    {
+      "title": "Travel Group Project",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Maleesha113/Travel-Group-Project"
+    },
+    {
+      "title": "Online Shopping",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Maleesha113/Online-Shopping-System"
+    },
+    
+    {
+      "title": "Estate-Property Site",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Maleesha113/estate_property-copy"
     }
   ]
