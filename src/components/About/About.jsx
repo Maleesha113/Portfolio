@@ -11,32 +11,29 @@ export const About = () => {
             className={styles.aboutImage}></img>
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
-                    <img src={getImageurl("about/cursorIcon.png")} alt="Cursor icon"></img>
+                    <img className={styles.img} src={getImageurl("about/pointer.png")} alt="Cursor icon"></img>
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
+                        <h3>Eager to Apply Expertise in Practical Projects</h3>
                         <p>
-                            I'm a frontend developer with experience in building responsive
-                            and optimized sites
+                        An ambitious undergraduate computer science student with a strong background in software development, programming, and algorithms, eager to apply their expertise in practical projects.
                         </p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageurl("about/serverIcon.png")} alt="Server icon"></img>
+                    <img className={styles.img} src={getImageurl("about/server.png")} alt="Server icon"></img>
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
+                        <h3>Fluent in Multiple Programming Languages</h3>
                         <p>
-                            I'm a frontend developer with experience in building responsive
-                            and optimized sites
+                        Gained fluency in Python, Java, HTML, CSS, JS, PHP, SQL and React JS through courses.
                         </p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageurl("about/uiIcon.png")} alt="Ui icon"></img>
+                    <img className={styles.img} src={getImageurl("about/UI.png")} alt="Ui icon"></img>
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
+                        <h3>Team-Oriented and Challenge-Driven</h3>
                         <p>
-                            I'm a frontend developer with experience in building responsive
-                            and optimized sites
+                        Enjoys working in groups, seeking challenges, and is dedicated to becoming the best computer scientist.
                         </p>
                     </div>
                 </li>

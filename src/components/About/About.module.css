@@ -31,6 +31,11 @@
     width: 40%;
   }
 
+  .img{
+    width: 10%;
+  }
+
+
   .aboutItems {
     color: var(--color-text);
     display: flex;
@@ -60,12 +65,12 @@
   }
   
   .aboutItem h3 {
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
   }
   
   .aboutItem p {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   @media screen and (max-width: 830px) {

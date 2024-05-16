@@ -9,12 +9,12 @@ export const Contact = () => {
         <footer id="contact" className={styles.container}>
             <div className={styles.text}>
                 <h2>Contact</h2>
-                <p>Feel free to reach out!</p>
+                <p>Feel free to get in touch!</p>
             </div>
             <ul className={styles.links} >
                 <li className={styles.link}>
                     <img className={styles.img} src={getImageurl("contact/gmail.png")} alt="Email Icon"></img>
-                    <a href="mailto:shavindimalee@email.com">myemail@email.com</a>
+                    <a href="mailto:shavindimalee@email.com">shavindimalee@gmail.com</a>
                 </li>
                 <li className={styles.link}>
                     <img className={styles.img} src={getImageurl("contact/linkedin.png")} alt="Linkedin Icon"></img>

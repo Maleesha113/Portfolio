@@ -1,50 +1,50 @@
 [
     {
       "title": "Portfolio",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "imageSrc": "projects/React.png",
+      "description": "This is a project made to learn the latest languages by Website.",
+      "skills": ["React", "Node"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Maleesha113/Portfolio"
     },
     {
       "title": "SDGP Group Project",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "imageSrc": "projects/React.png",
+      "description": "This is a project made to give a better Carrer prediction.",
+      "skills": ["React", "Node"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Rusithw/SDGP-Project"
     },
     {
       "title": "Hamster care Site",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "imageSrc": "projects/html.png",
+      "description": "This is a project made to learn about the Hamster Pets Using HTML & CSS.",
+      "skills": ["HTML & CSS", "JS"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Maleesha113/Hamster-Care"
     },
     {
       "title": "Travel Group Project",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "imageSrc": "projects/html.png",
+      "description": "This is a project made to search the Travel Places in Sri Lanka.",
+      "skills": ["HTML & CSS", "JS"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Maleesha113/Travel-Group-Project"
     },
     {
       "title": "Online Shopping",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "imageSrc": "projects/Java.png",
+      "description": "This is a project made to learn java and develop the UI using Swing ",
+      "skills": ["Java"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Maleesha113/Online-Shopping-System"
     },
     
     {
       "title": "Estate-Property Site",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "imageSrc": "projects/React.png",
+      "description": "This is a project made to learn the more about React language",
+      "skills": ["React", "Node"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Maleesha113/estate_property-copy"
     }
