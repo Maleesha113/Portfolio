@@ -105,4 +105,7 @@
     .content {
       align-items: center;
     }
+    .heroImg{
+      width: 240px;
+    }
   }
